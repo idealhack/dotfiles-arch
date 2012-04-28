@@ -1,0 +1,40 @@
+! color
+*background:  #111111
+*foreground:  #ebebff
+*color0:      #000000
+*color1:      #e01010
+*color2:      #00aa00
+*color3:      #ffff00
+*color4:      #112037
+*color5:      #a020f0
+*color6:      #5b5bc7
+*color7:      #fefefe
+*color8:      #6a6a6a
+*color9:      #ff5555
+*color10:     #90ee90
+*color11:     #ffff2f
+*color12:     #5b5bc7
+*color13:     #e628ba
+*color14:     #7d7dfb
+*color15:     #ffffff
+*cursorColor: #dcdccc
+
+! urxvt
+urxvt.saveLines:       65535
+urxvt.urgentOnBell:    true
+urxvt.loginShell:      true
+urxvt.transparent:     true
+urxvt.depth:           32
+urxvt.shading:         10
+urxvt.scrollstyle:     plain
+urxvt.font:            -*-dina-medium-r-*-*-16-*-*-*-*-*-*-*
+urxvt.iconFile:        /usr/share/icons/Faience/apps/16/terminal.png
+
+urxvt.perl-lib:        /usr/lib/urxvt/perl/
+urxvt.perl-ext-common: default,url-select,searchable-scrollback
+urxvt.keysym.M-u:      perl:url-select:select_next
+urxvt.urlLauncher:     /usr/bin/chromium
+urxvt.underlineURLs:   true
+
+urxvt.inputMethod:     ibus
+urxvt.preeditType:     OnTheSpot
