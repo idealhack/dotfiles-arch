@@ -10,7 +10,6 @@ Bundle 'rstacruz/sparkup'
 Bundle 'ervandew/supertab'
 Bundle 'tpope/vim-fugitive'
 Bundle 'scrooloose/nerdtree'
-Bundle 'skammer/vim-css-color'
 Bundle 'altercation/vim-colors-solarized'
 
 " common
