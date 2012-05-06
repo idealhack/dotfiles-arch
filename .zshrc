@@ -1,7 +1,7 @@
 # oh-my-zsh
 ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
-plugins=(archlinux git git-flow node npm pip python vundle)
+plugins=(archlinux gem git git-flow heroku node npm pip python ruby vundle)
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
 
@@ -9,6 +9,7 @@ unsetopt correct_all
 export EDITOR="vim"
 export BROWSER=/usr/bin/chromium
 export PATH=$PATH:$HOME/bin
+export PATH=$PATH:$HOME/.gem/ruby/1.9.1/bin
 export NODE_PATH=/usr/lib/node_modules
 
 # ailases
