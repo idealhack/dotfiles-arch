@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": 1337585989,
+	"installed_packages":
+	[
+		"Alignment",
+		"Backbone.js",
+		"ColorPicker",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"HTML5",
+		"Jade",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"JsMinifier",
+		"Live CSS",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Pandoc (Markdown)",
+		"Prefixr",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeWebColors",
+		"Terminal",
+		"Theme - Soda",
+		"WordCount",
+		"ZenCoding"
+	]
+}
