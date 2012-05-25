@@ -2,6 +2,7 @@
 
 # x
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
+xset +fp /usr/share/fonts/local/
 
 # silence
 /usr/bin/xset b off
