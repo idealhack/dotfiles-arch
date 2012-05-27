@@ -54,8 +54,8 @@ set background=dark
 " gvim
 if has("gui_running")
   set mouse=a
-  set lines=48
-  set columns=190
+  set lines=26
+  set columns=100
   set numberwidth=3
   set guifont=Monaco\ 12
 endif
