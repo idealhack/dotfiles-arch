@@ -120,7 +120,7 @@ volwidget:buttons(awful.util.table.join(
 
 -- Network widget
 netwidget = wibox.widget.textbox()
-vicious.register(netwidget, vicious.widgets.net, ' [ ${eth0 down_kb} / ${eth0 up_kb} ] ', 1)
+vicious.register(netwidget, vicious.widgets.net, ' [ ${wlan0 down_kb} / ${wlan0 up_kb} ] ', 1)
 
 -- Memory widget
 memwidget = wibox.widget.textbox()
