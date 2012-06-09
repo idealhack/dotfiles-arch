@@ -432,6 +432,7 @@ client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_n
 -- }}}
 
 -- {{{ Autostart
+awful.util.spawn_with_shell('batti')
 awful.util.spawn_with_shell('dropboxd')
 awful.util.spawn_with_shell('ibus-daemon --xim')
 -- }}}
