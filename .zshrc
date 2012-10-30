@@ -8,9 +8,7 @@ unsetopt correct_all
 # varables
 export EDITOR="vim"
 export BROWSER=/usr/bin/chromium
-export PATH=$PATH:$HOME/bin
-export PATH=$PATH:$HOME/.gem/ruby/1.9.1/bin
-export NODE_PATH=/usr/lib/node_modules
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
 # ailases
 alias open="xdg-open"
