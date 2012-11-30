@@ -11,6 +11,10 @@ xset +fp /usr/share/fonts/local/
 exec awesome
 
 # ime
-export XMODIFIERS=@im=ibus
-export GTK_IM_MODULE=ibus
-export QT_IM_MODULE=ibus
+export XMODIFIERS=@im=fcitx
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+fcitx &
+
+# dropbox
+dropboxd &
