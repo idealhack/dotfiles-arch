@@ -1,13 +1,15 @@
 {
-	"auto_upgrade_last_run": 1337585989,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
 		"Backbone.js",
 		"ColorPicker",
+		"Dayle Rees Color Schemes",
 		"DocBlockr",
 		"Gist",
 		"Git",
+		"GitGutter",
 		"HTML5",
 		"Jade",
 		"jQuery Snippets pack",
@@ -23,6 +25,7 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeWebColors",
+		"SVN",
 		"Terminal",
 		"Theme - Soda",
 		"WordCount",

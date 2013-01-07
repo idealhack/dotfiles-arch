@@ -1,0 +1,14 @@
+{
+    "jshint_options":
+    {
+        "es5": true,
+        "asi": true,
+        "laxcomma": true,
+        "evil": true,
+        "regexdash": true,
+        "browser": true,
+        "wsh": true,
+        "trailing": true,
+        "sub": true
+    }
+}
