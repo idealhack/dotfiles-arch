@@ -1,7 +1,7 @@
 # oh-my-zsh
 ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="robbyrussell"
-plugins=(archlinux gem git git-flow heroku node npm pip python ruby vundle)
+plugins=(archlinux git git-extras git-flow github heroku node npm pip python sublime svn systemd vundle)
 source $ZSH/oh-my-zsh.sh
 unsetopt correct_all
 
